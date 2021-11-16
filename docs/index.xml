@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Главная on Лаборатория ЦАиССМССиС</title>
-    <link>vit.github.io/x3lab/</link>
+    <link>https://vit.github.io/x3lab/</link>
     <description>Recent content in Главная on Лаборатория ЦАиССМССиС</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
-    <lastBuildDate>Mon, 15 Nov 2021 22:49:45 +0300</lastBuildDate><atom:link href="vit.github.io/x3lab/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 15 Nov 2021 22:49:45 +0300</lastBuildDate><atom:link href="https://vit.github.io/x3lab/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

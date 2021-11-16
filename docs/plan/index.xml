@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>План on Лаборатория ЦАиССМССиС</title>
-    <link>vit.github.io/x3lab/plan/</link>
+    <link>https://vit.github.io/x3lab/plan/</link>
     <description>Recent content in План on Лаборатория ЦАиССМССиС</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ru-ru</language><atom:link href="vit.github.io/x3lab/plan/index.xml" rel="self" type="application/rss+xml" />
+    <language>ru-ru</language><atom:link href="https://vit.github.io/x3lab/plan/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
