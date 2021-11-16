@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Направления on Лаборатория ЦАиССМССиС</title>
-    <link>x3lab.evarist.ru/topics/</link>
+    <link>vit.github.io/x3lab/topics/</link>
     <description>Recent content in Направления on Лаборатория ЦАиССМССиС</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ru-ru</language><atom:link href="x3lab.evarist.ru/topics/index.xml" rel="self" type="application/rss+xml" />
+    <language>ru-ru</language><atom:link href="vit.github.io/x3lab/topics/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
